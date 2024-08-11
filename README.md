@@ -2,6 +2,8 @@
 
 ## Description
 
+[Versão em Português](README_ptbr.md)
+
 This is a bot developed with Pyrogram to process messages from a source chat and send them to a destination chat. The bot handles various types of messages, including text, photos, documents, and videos. In case of forwarding restrictions, the bot downloads and resends the media.
 
 ## Project Structure
